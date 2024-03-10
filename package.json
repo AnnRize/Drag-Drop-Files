@@ -1,5 +1,5 @@
 {
-  "name": "Drag&DropFiles",
+  "name": "dnd",
   "private": true,
   "version": "0.0.0",
   "type": "module",

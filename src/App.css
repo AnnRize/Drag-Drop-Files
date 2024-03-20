@@ -59,11 +59,18 @@
 }
 
 .files {
+  margin-inline: auto;
   display: flex;
-  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 500px;
   gap: 20px;
 }
 
 .file {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 110px;
   border: 2px solid white;
 }

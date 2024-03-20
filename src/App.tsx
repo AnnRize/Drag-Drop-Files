@@ -61,8 +61,7 @@ function App() {
           files.map((file, i) => (
             <div className="file" key={i}>
               <div>{file.name}</div>
-              <div>{file.type}</div>
-              <div>{file.size}</div>
+              <img src={URL.createObjectURL(file)} alt="" width={100} />
             </div>
           ))}
       </div>

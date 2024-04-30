@@ -1,5 +1,7 @@
 # Drag&Drop Files
 
+### Demo [Link](https://annrize.github.io/Drag-Drop-Files/)
+
 ### **Start app**
 
 1. _Either fork or download the app and open the folder in the cli_
